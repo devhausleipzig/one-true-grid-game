@@ -1,1 +1,1 @@
-# one-true-grid-game
+# One True Grid Game
